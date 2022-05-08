@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="telephoneList">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="styles/style.css" />
+
+    <title>Telephone List</title>
+</head>
+
+<body ng-controller="telephoneListCtrl">
+    <div class="jumbotron">
+        <!-- <h4 ng-bind="app"></h4> -->
+        <h3>{{app}}</h3>
+        <table class="table table-striped">
+            <tr>
+                <th>Nome</th>
+                <th>Telefone</th>
+            </tr>
+            <tr ng-repeat="contact in contacts">
+                <td ng-repeat="(key,value) in contact">{{value}}</td>
+                <!-- <td>{{contact.name}}</td>
+                <td>{{contact.telephone}}</td> -->
+            </tr>
+        </table>
+        <hr />
+        <div class="input-container">
+            <div class="name">
+                <label for="Name">Nome</label>
+                <input id="Name" class="form-control" type="text" ng-model="contact.name" placeholder="Digite o nome" />
+            </div>
+            <div class="telephone">
+                <label for="Telephone">Telefone</label>
+                <input id="Telephone" class="form-control" type="text" ng-model="contact.telephone" placeholder="Digite o telefone" />
+            </div>
+        </div>
+        <div class="buttons">
+            <button class="btn btn-primary btn-block" ng-click="addContact(contact)">Save</button>
+        </div>
+    </div>
+</body>
+
+<script src="styles/bootstrap-4.0.0/dist/js/bootstrap.min.js"></script>
+<script src="styles/bootstrap-4.0.0/assets/js/vendor/jquery-slim.min.js"></script>
+<script src="styles/bootstrap-4.0.0/assets/js/vendor/popper.min.js"></script>
+<script src="scripts/angular-1.8.2/angular.js"></script>
+<script src="scripts/telephoneListModule.js"></script>
+
+</html>
