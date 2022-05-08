@@ -1,0 +1,253 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web'); /*Importação de fonte por referência de navegadores*/
+@font-face {
+    /*Importação de fontes através de uma pasta de fontes*/
+    font-family: 'FonteLogo';
+    src: url("../_fonts/bubblegum-sans-regular.otf");
+}
+
+/*Estilo da página index*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dddddd;
+    color: rgba(0, 0, 0, 1); /*no rgba o ultimo parametro que é o alfa vai de 0 a 1*/
+}
+
+div#interface {
+    width: 900px;
+    background-color: #ffffff;
+    margin: -20px auto 0px auto; /*a margim é configurada da seguinte forma: cima, direita, baixo e esquerda*/
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    padding: 10px;
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px; /*o text-indent serve para dar um espaço gerando uma marca de paragrafo*/
+}
+
+a {
+    color: #606060;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+header#cabecalho img#icone {
+    position: absolute;
+    left: 960px;
+    top: 68px;
+}
+
+header#cabecalho {
+    border-bottom: 1px #606060 solid;
+    height: 150px;
+    background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px; /* Utilizando url para definir background*/
+}
+
+header#cabecalho h1 {
+    font-family: 'FonteLogo', sans-serif;
+    font-size: 30px;
+    color: #606060;
+    text-shadow: rgba(0, 0, 0, .6);
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+header#cabecalho h2 {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 15px;
+    color: #888888;
+    padding: 0px;
+    margin-top: 0px;
+
+}
+
+/*Formatação de imagens com legendas*/
+figure.foto-legenda {
+    position: relative;
+    border: 8px solid white;
+    box-shadow: 1px 1px 4px black; /*o box shadow é um atributo utilizado para criar sombras*/
+}
+
+figure.foto-legenda img {
+    width: 100%;
+    height: 100%;
+}
+
+figure.foto-legenda figcaption {
+    opacity: 0;
+    position: absolute;
+    top: 0px;
+    background-color: rgba(0, 0, 0, .4);
+    color: white;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box; /*o box size serve para definir o tamanho do box*/
+    transition: opacity 1s; /*neste caso com a opção border-box ele  cria o box dentro da borda*/
+}
+
+figure.foto-legenda:hover figcaption { /*hover é o efeito que é aplicado quando se passa o mouse por cima do objeto*/
+    opacity: 1;
+}
+
+/*Formatação do menu*/
+nav#menu { /*sempre que se for fazer formatação pelo id deve se colocar uma hashtag depois da tag*/
+    display: block;
+}
+
+nav#menu ul {
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute; /*posição absoluta eu posso mover o objeto dentro do documento inteiro */
+    top: -20px; /*posição relativa somente dentro da tag container a qual o objeto esta confinado*/
+    left: 480px;
+}
+
+nav#menu li {
+    display: inline-block;
+    background-color: #dddddd;
+    padding: 10px; /*padding é o espaçamento interno da borda*/
+    margin: 2px; /*margin é o espaçamento externo da borda*/
+    transition: background-color 1s;
+}
+
+nav#menu li:hover {
+    background-color: #606060;
+}
+
+nav#menu h1 {
+    display: none;
+}
+
+nav#menu a {
+    color: #000000;
+    text-decoration: none;
+}
+
+nav#menu a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+section#corpo {
+    display: block;
+    width: 500px;
+    float: left;
+    border-right: 1px solid #606060;
+    padding-right: 15px;
+}
+
+article#noticiaPrincipal h2 {
+    font-size: 12pt;
+    color: #606060;
+    background-color: #dddddd;
+    padding: 5px 0px 5px 10px;
+    margin: 10px 0px 10px 0px;
+}
+
+header#cabecalhoArtigo h1 {
+    font-family: 'fonteLogo', sans-serif;
+    font-size: 20pt;
+    color: #606060;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+header#cabecalhoArtigo h2 {
+    font-size: 13pt;
+    color: #cecece;
+    background-color: #ffffff;
+    margin: 0px;
+}
+
+header#cabecalhoArtigo h3 {
+    font-size: 12px;
+    color: #606060;
+
+}
+
+.direita {
+    text-align: right;
+}
+
+table#tabelaspec {
+    border: 1px solid #606060;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table#tabelaspec td {
+    border: 1px solid #606060;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+table#tabelaspec td.ce {
+    color: #ffffff;
+    background-color: #606060;
+    vertical-align: top;
+    text-align: right;
+    font-weight: bold;
+}
+
+table#tabelaspec td.cd {
+    background-color: #cecece;
+    text-align: left;
+}
+
+table#tabelaspec caption {
+    color: #888888;
+    font-size: 13pt;
+    font-weight: bolder;
+}
+
+table#tabelaspec caption span {
+    display: block;
+    float: right;
+    color: #000000;
+    font-size: 8pt;
+    margin-top: 10px;
+}
+
+aside#lateral {
+    display: block;
+    width: 350px;
+    float: right; /*para se usar o float devemos estar com os objetos configurados em bloco, assim podemos colocalos flutuar um ao lado do outro*/
+    background-color: #dddddd;
+    padding: 10px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
+}
+
+aside#lateral h1 {
+    font-family: 'fonteLogo', sans-serif;
+    font-size: 20pt;
+    color: #606060;
+    margin-top: 0px;
+}
+
+aside#lateral h2 {
+    background-color: #606060;
+    font-size: 13pt;
+    color: #ffffff;
+    padding: 5px;
+}
+
+video#filme{
+    width: 350px;
+}
+
+footer#rodape {
+    clear: both;
+    border-top: 1px solid #606060;
+}
+
+footer#rodape p {
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+@charset "UTF-8";
+section#conteudo {
+    width: 1000px;
+    margin: auto;
+}
+
+iframe#frameSpec {
+    width: 400px;
+    height: 310px;
+    border: none;
+    overflow: hidden; /*Essa configuração impede que que o documento carregado pelo iframe seja rolado mais nem todos os navegadores suportam.*/
+}

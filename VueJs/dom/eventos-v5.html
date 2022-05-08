@@ -1,0 +1,41 @@
+<script src="http://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+<div id="app">
+    <p>{{ contador }}</p>
+    <button v-on:click="somar(5, $event)">Soma 1</button>
+    <p v-on:mousemove="atualizarXY">
+        Mouse: {{x}} e {{y}}
+        <span v-on:mousemove.stop>PARAR AQUI !!!!!</span>
+    </p>
+    <a v-on:click.prevent href="http://google.com">GOOGLE</a>
+    <hr>
+    <input type="text" v-on:keyup.enter="alertar"> <!-- utilizando o modificador de evento ENTER eu só exibo o método alert quando a TECLA ENTER é pressionada -->
+</div>
+
+<script>
+    new Vue({
+        el:'#app',
+        data: {
+            contador: 0,
+            x: 0, 
+            y: 0
+        },
+        methods:{
+            somar(passo, event){
+                console.log(passo, event)
+                this.contador += passo
+            },
+            atualizarXY(event){
+                console.log(event)
+                this.x = event.clientX
+                this.y = event.clientY
+            },
+            alertar(){
+                alert('estou te alertando!')
+            }
+            //parar(e){
+            //   e.stopPropagation()            esse pedaço de codigo pode ser substituido pelo modificador de evento STOP
+            //}
+        }
+    })
+</script>
