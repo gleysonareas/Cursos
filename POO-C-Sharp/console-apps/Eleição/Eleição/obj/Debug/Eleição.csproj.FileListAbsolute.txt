@@ -1,0 +1,6 @@
+c:\users\sula\documents\visual studio 2017\Projects\Eleição\Eleição\bin\Debug\Eleição.exe.config
+c:\users\sula\documents\visual studio 2017\Projects\Eleição\Eleição\bin\Debug\Eleição.exe
+c:\users\sula\documents\visual studio 2017\Projects\Eleição\Eleição\bin\Debug\Eleição.pdb
+c:\users\sula\documents\visual studio 2017\Projects\Eleição\Eleição\obj\Debug\Eleição.csprojResolveAssemblyReference.cache
+c:\users\sula\documents\visual studio 2017\Projects\Eleição\Eleição\obj\Debug\Eleição.exe
+c:\users\sula\documents\visual studio 2017\Projects\Eleição\Eleição\obj\Debug\Eleição.pdb

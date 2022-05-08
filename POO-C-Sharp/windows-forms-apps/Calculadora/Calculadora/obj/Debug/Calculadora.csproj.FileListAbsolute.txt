@@ -1,0 +1,9 @@
+C:\Users\Sula\Documents\visual studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Aula Completa(form 01).exe.config
+C:\Users\Sula\Documents\visual studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Aula Completa(form 01).exe
+C:\Users\Sula\Documents\visual studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Aula Completa(form 01).pdb
+C:\Users\Sula\Documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Sula\Documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Aula_Completa_form_01_.frmCalculadora.resources
+C:\Users\Sula\Documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Aula_Completa_form_01_.Properties.Resources.resources
+C:\Users\Sula\Documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Sula\Documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Aula Completa(form 01).exe
+C:\Users\Sula\Documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Aula Completa(form 01).pdb

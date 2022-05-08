@@ -1,0 +1,9 @@
+c:\users\sula\documents\visual studio 2017\Projects\ExemploTimer\ExemploTimer\bin\Debug\ExemploTimer.exe.config
+c:\users\sula\documents\visual studio 2017\Projects\ExemploTimer\ExemploTimer\bin\Debug\ExemploTimer.exe
+c:\users\sula\documents\visual studio 2017\Projects\ExemploTimer\ExemploTimer\bin\Debug\ExemploTimer.pdb
+c:\users\sula\documents\visual studio 2017\Projects\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.csprojResolveAssemblyReference.cache
+c:\users\sula\documents\visual studio 2017\Projects\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.frmTimer.resources
+c:\users\sula\documents\visual studio 2017\Projects\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.Properties.Resources.resources
+c:\users\sula\documents\visual studio 2017\Projects\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.csproj.GenerateResource.Cache
+c:\users\sula\documents\visual studio 2017\Projects\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.exe
+c:\users\sula\documents\visual studio 2017\Projects\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.pdb

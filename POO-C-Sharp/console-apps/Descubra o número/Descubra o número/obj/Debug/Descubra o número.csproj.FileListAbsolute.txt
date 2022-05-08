@@ -1,0 +1,6 @@
+c:\users\sula\documents\visual studio 2017\Projects\Descubra o número\Descubra o número\bin\Debug\Descubra o número.exe.config
+c:\users\sula\documents\visual studio 2017\Projects\Descubra o número\Descubra o número\bin\Debug\Descubra o número.exe
+c:\users\sula\documents\visual studio 2017\Projects\Descubra o número\Descubra o número\bin\Debug\Descubra o número.pdb
+c:\users\sula\documents\visual studio 2017\Projects\Descubra o número\Descubra o número\obj\Debug\Descubra o número.csprojResolveAssemblyReference.cache
+c:\users\sula\documents\visual studio 2017\Projects\Descubra o número\Descubra o número\obj\Debug\Descubra o número.exe
+c:\users\sula\documents\visual studio 2017\Projects\Descubra o número\Descubra o número\obj\Debug\Descubra o número.pdb

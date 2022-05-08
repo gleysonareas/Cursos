@@ -1,0 +1,10 @@
+C:\Users\falco\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\cadastroDeClientes\cadastroDeClientes\bin\Debug\cadastroDeClientes.exe.config
+C:\Users\falco\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\cadastroDeClientes\cadastroDeClientes\bin\Debug\cadastroDeClientes.exe
+C:\Users\falco\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\cadastroDeClientes\cadastroDeClientes\bin\Debug\cadastroDeClientes.pdb
+C:\Users\falco\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\cadastroDeClientes\cadastroDeClientes\obj\Debug\cadastroDeClientes.csprojResolveAssemblyReference.cache
+C:\Users\falco\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\cadastroDeClientes\cadastroDeClientes\obj\Debug\cadastroDeClientes.Form1.resources
+C:\Users\falco\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\cadastroDeClientes\cadastroDeClientes\obj\Debug\cadastroDeClientes.Properties.Resources.resources
+C:\Users\falco\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\cadastroDeClientes\cadastroDeClientes\obj\Debug\cadastroDeClientes.csproj.GenerateResource.Cache
+C:\Users\falco\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\cadastroDeClientes\cadastroDeClientes\obj\Debug\cadastroDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\falco\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\cadastroDeClientes\cadastroDeClientes\obj\Debug\cadastroDeClientes.exe
+C:\Users\falco\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\cadastroDeClientes\cadastroDeClientes\obj\Debug\cadastroDeClientes.pdb

@@ -1,0 +1,6 @@
+c:\users\sula\documents\visual studio 2017\Projects\Jogo de luta\Jogo de luta\bin\Debug\Jogo de luta.exe.config
+c:\users\sula\documents\visual studio 2017\Projects\Jogo de luta\Jogo de luta\bin\Debug\Jogo de luta.exe
+c:\users\sula\documents\visual studio 2017\Projects\Jogo de luta\Jogo de luta\bin\Debug\Jogo de luta.pdb
+c:\users\sula\documents\visual studio 2017\Projects\Jogo de luta\Jogo de luta\obj\Debug\Jogo de luta.csprojResolveAssemblyReference.cache
+c:\users\sula\documents\visual studio 2017\Projects\Jogo de luta\Jogo de luta\obj\Debug\Jogo de luta.exe
+c:\users\sula\documents\visual studio 2017\Projects\Jogo de luta\Jogo de luta\obj\Debug\Jogo de luta.pdb

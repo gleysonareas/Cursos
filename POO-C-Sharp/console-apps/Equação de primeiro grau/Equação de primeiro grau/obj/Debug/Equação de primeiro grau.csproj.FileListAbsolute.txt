@@ -1,0 +1,6 @@
+c:\users\sula\documents\visual studio 2017\Projects\Equação de primeiro grau\Equação de primeiro grau\bin\Debug\Equação de primeiro grau.exe.config
+c:\users\sula\documents\visual studio 2017\Projects\Equação de primeiro grau\Equação de primeiro grau\bin\Debug\Equação de primeiro grau.exe
+c:\users\sula\documents\visual studio 2017\Projects\Equação de primeiro grau\Equação de primeiro grau\bin\Debug\Equação de primeiro grau.pdb
+c:\users\sula\documents\visual studio 2017\Projects\Equação de primeiro grau\Equação de primeiro grau\obj\Debug\Equação de primeiro grau.csprojResolveAssemblyReference.cache
+c:\users\sula\documents\visual studio 2017\Projects\Equação de primeiro grau\Equação de primeiro grau\obj\Debug\Equação de primeiro grau.exe
+c:\users\sula\documents\visual studio 2017\Projects\Equação de primeiro grau\Equação de primeiro grau\obj\Debug\Equação de primeiro grau.pdb

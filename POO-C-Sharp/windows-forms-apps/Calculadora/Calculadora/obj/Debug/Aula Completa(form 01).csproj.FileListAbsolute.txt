@@ -1,0 +1,9 @@
+C:\Users\Sula\documents\visual studio 2017\Projects\Aula Completa(form 01)\Aula Completa(form 01)\bin\Debug\Aula Completa(form 01).exe.config
+C:\Users\Sula\documents\visual studio 2017\Projects\Aula Completa(form 01)\Aula Completa(form 01)\bin\Debug\Aula Completa(form 01).exe
+C:\Users\Sula\documents\visual studio 2017\Projects\Aula Completa(form 01)\Aula Completa(form 01)\bin\Debug\Aula Completa(form 01).pdb
+C:\Users\Sula\documents\visual studio 2017\Projects\Aula Completa(form 01)\Aula Completa(form 01)\obj\Debug\Aula Completa(form 01).csprojResolveAssemblyReference.cache
+C:\Users\Sula\documents\visual studio 2017\Projects\Aula Completa(form 01)\Aula Completa(form 01)\obj\Debug\Aula_Completa_form_01_.Properties.Resources.resources
+C:\Users\Sula\documents\visual studio 2017\Projects\Aula Completa(form 01)\Aula Completa(form 01)\obj\Debug\Aula Completa(form 01).csproj.GenerateResource.Cache
+C:\Users\Sula\documents\visual studio 2017\Projects\Aula Completa(form 01)\Aula Completa(form 01)\obj\Debug\Aula Completa(form 01).exe
+C:\Users\Sula\documents\visual studio 2017\Projects\Aula Completa(form 01)\Aula Completa(form 01)\obj\Debug\Aula Completa(form 01).pdb
+C:\Users\Sula\documents\visual studio 2017\Projects\Aula Completa(form 01)\Aula Completa(form 01)\obj\Debug\Aula_Completa_form_01_.frmCalculadora.resources

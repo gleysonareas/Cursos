@@ -1,0 +1,18 @@
+c:\users\sula\documents\visual studio 2017\Projects\trabalhandoComTeclas\trabalhandoComTeclas\bin\Debug\trabalhandoComTeclas.exe.config
+c:\users\sula\documents\visual studio 2017\Projects\trabalhandoComTeclas\trabalhandoComTeclas\bin\Debug\trabalhandoComTeclas.exe
+c:\users\sula\documents\visual studio 2017\Projects\trabalhandoComTeclas\trabalhandoComTeclas\bin\Debug\trabalhandoComTeclas.pdb
+c:\users\sula\documents\visual studio 2017\Projects\trabalhandoComTeclas\trabalhandoComTeclas\obj\Debug\trabalhandoComTeclas.csprojResolveAssemblyReference.cache
+c:\users\sula\documents\visual studio 2017\Projects\trabalhandoComTeclas\trabalhandoComTeclas\obj\Debug\trabalhandoComTeclas.Form1.resources
+c:\users\sula\documents\visual studio 2017\Projects\trabalhandoComTeclas\trabalhandoComTeclas\obj\Debug\trabalhandoComTeclas.Properties.Resources.resources
+c:\users\sula\documents\visual studio 2017\Projects\trabalhandoComTeclas\trabalhandoComTeclas\obj\Debug\trabalhandoComTeclas.csproj.GenerateResource.Cache
+c:\users\sula\documents\visual studio 2017\Projects\trabalhandoComTeclas\trabalhandoComTeclas\obj\Debug\trabalhandoComTeclas.exe
+c:\users\sula\documents\visual studio 2017\Projects\trabalhandoComTeclas\trabalhandoComTeclas\obj\Debug\trabalhandoComTeclas.pdb
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\trabalhandoComTeclas\trabalhandoComTeclas\bin\Debug\trabalhandoComTeclas.exe.config
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\trabalhandoComTeclas\trabalhandoComTeclas\bin\Debug\trabalhandoComTeclas.exe
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\trabalhandoComTeclas\trabalhandoComTeclas\bin\Debug\trabalhandoComTeclas.pdb
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\trabalhandoComTeclas\trabalhandoComTeclas\obj\Debug\trabalhandoComTeclas.csprojResolveAssemblyReference.cache
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\trabalhandoComTeclas\trabalhandoComTeclas\obj\Debug\trabalhandoComTeclas.Form1.resources
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\trabalhandoComTeclas\trabalhandoComTeclas\obj\Debug\trabalhandoComTeclas.Properties.Resources.resources
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\trabalhandoComTeclas\trabalhandoComTeclas\obj\Debug\trabalhandoComTeclas.csproj.GenerateResource.Cache
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\trabalhandoComTeclas\trabalhandoComTeclas\obj\Debug\trabalhandoComTeclas.exe
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\trabalhandoComTeclas\trabalhandoComTeclas\obj\Debug\trabalhandoComTeclas.pdb

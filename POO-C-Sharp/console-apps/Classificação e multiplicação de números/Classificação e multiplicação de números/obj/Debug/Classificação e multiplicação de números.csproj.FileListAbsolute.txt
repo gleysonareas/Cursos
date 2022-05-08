@@ -1,0 +1,5 @@
+c:\users\sula\documents\visual studio 2017\Projects\Classificação e multiplicação de números\Classificação e multiplicação de números\bin\Debug\Classificação e multiplicação de números.exe.config
+c:\users\sula\documents\visual studio 2017\Projects\Classificação e multiplicação de números\Classificação e multiplicação de números\bin\Debug\Classificação e multiplicação de números.exe
+c:\users\sula\documents\visual studio 2017\Projects\Classificação e multiplicação de números\Classificação e multiplicação de números\bin\Debug\Classificação e multiplicação de números.pdb
+c:\users\sula\documents\visual studio 2017\Projects\Classificação e multiplicação de números\Classificação e multiplicação de números\obj\Debug\Classificação e multiplicação de números.exe
+c:\users\sula\documents\visual studio 2017\Projects\Classificação e multiplicação de números\Classificação e multiplicação de números\obj\Debug\Classificação e multiplicação de números.pdb

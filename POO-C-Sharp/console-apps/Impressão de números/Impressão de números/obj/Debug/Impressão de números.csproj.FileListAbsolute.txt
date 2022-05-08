@@ -1,0 +1,6 @@
+c:\users\sula\documents\visual studio 2017\Projects\Impressão de números\Impressão de números\obj\Debug\Impressão de números.csprojResolveAssemblyReference.cache
+c:\users\sula\documents\visual studio 2017\Projects\Impressão de números\Impressão de números\bin\Debug\Impressão de números.exe.config
+c:\users\sula\documents\visual studio 2017\Projects\Impressão de números\Impressão de números\bin\Debug\Impressão de números.exe
+c:\users\sula\documents\visual studio 2017\Projects\Impressão de números\Impressão de números\bin\Debug\Impressão de números.pdb
+c:\users\sula\documents\visual studio 2017\Projects\Impressão de números\Impressão de números\obj\Debug\Impressão de números.exe
+c:\users\sula\documents\visual studio 2017\Projects\Impressão de números\Impressão de números\obj\Debug\Impressão de números.pdb

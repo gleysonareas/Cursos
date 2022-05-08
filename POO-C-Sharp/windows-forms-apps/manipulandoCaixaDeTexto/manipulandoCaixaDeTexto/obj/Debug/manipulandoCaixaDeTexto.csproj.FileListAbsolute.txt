@@ -1,0 +1,18 @@
+c:\users\sula\documents\visual studio 2017\Projects\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\obj\Debug\manipulandoCaixaDeTexto.csprojResolveAssemblyReference.cache
+c:\users\sula\documents\visual studio 2017\Projects\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\obj\Debug\manipulandoCaixaDeTexto.Form1.resources
+c:\users\sula\documents\visual studio 2017\Projects\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\obj\Debug\manipulandoCaixaDeTexto.Properties.Resources.resources
+c:\users\sula\documents\visual studio 2017\Projects\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\obj\Debug\manipulandoCaixaDeTexto.csproj.GenerateResource.Cache
+c:\users\sula\documents\visual studio 2017\Projects\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\bin\Debug\manipulandoCaixaDeTexto.exe.config
+c:\users\sula\documents\visual studio 2017\Projects\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\bin\Debug\manipulandoCaixaDeTexto.exe
+c:\users\sula\documents\visual studio 2017\Projects\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\bin\Debug\manipulandoCaixaDeTexto.pdb
+c:\users\sula\documents\visual studio 2017\Projects\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\obj\Debug\manipulandoCaixaDeTexto.exe
+c:\users\sula\documents\visual studio 2017\Projects\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\obj\Debug\manipulandoCaixaDeTexto.pdb
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\bin\Debug\manipulandoCaixaDeTexto.exe.config
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\bin\Debug\manipulandoCaixaDeTexto.exe
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\bin\Debug\manipulandoCaixaDeTexto.pdb
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\obj\Debug\manipulandoCaixaDeTexto.csprojResolveAssemblyReference.cache
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\obj\Debug\manipulandoCaixaDeTexto.frmFomulario.resources
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\obj\Debug\manipulandoCaixaDeTexto.Properties.Resources.resources
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\obj\Debug\manipulandoCaixaDeTexto.csproj.GenerateResource.Cache
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\obj\Debug\manipulandoCaixaDeTexto.exe
+C:\Users\Sula\Google Drive\Documentos\Curso Desenvolvimento C#\Programas em C#\manipulandoCaixaDeTexto\manipulandoCaixaDeTexto\obj\Debug\manipulandoCaixaDeTexto.pdb
