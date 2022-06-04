@@ -1,3 +1,4 @@
+//Isso me permiti criar um array com base na minha interface ja criada
 export interface Acoes extends Array<Acao> {}
 
 export interface Acao {
