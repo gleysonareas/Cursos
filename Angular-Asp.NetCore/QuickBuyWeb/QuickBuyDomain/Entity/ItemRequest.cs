@@ -1,14 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace QuickBuyDomain.Entity
+﻿namespace QuickBuyDomain.Entity
 {
-    class ItemRequest
+    public class ItemRequest : Entity
     {
         public int Id { get; set; }
         public int ProductId { get; set; }
         public int Quantity { get; set; }
 
+        protected override void Validate()
+        {
+            if (ProductId == 0)
+            {
+                AddMessage("Não foi identificado qual a referencia do produto!");
+            }
+            if (Quantity == 0)
+            {
+                AddMessage("Quantidade não foi informada!");
+            }
+        }
     }
 }
